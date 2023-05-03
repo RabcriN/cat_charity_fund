@@ -1,4 +1,4 @@
-## API для Благотворительного фонда поддержки написанное на FastAPI.
+## API для Благотворительного фонда поддержки котиков, написанное на FastAPI.
 
 ![alt text](https://pictures.s3.yandex.net/resources/sprint2_picture1_1672399951.png)
 
